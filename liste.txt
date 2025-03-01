@@ -3,3 +3,4 @@
 2)Yetkilendirme ile kullanıcıların hangi verilere ulaşabileceği sınırlanır.
 3)Parmak izi, yüz tanıma gibi yöntemler içerir.
 4)Bilgi tabanlı bir doğruluma sistemi kullanılır.
+5)Tek kullanımlık parolalar(SMS, e-posta) kullanılır.
